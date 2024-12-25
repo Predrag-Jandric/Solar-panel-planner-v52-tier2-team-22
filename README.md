@@ -3,6 +3,7 @@
 ## 🔗 [LIVE APP LINK](https://solar-panel-planner.netlify.app/)
 ## 🔗 [APP VIDEO PRESENTATION](https://odysee.com/My-Video:4b0?r=8YjznsBchbYYhEe4djwLihNFPE6u2U15)
 
+![Design preview](./solar-panel-planner/public/prev.png)
 
 ## Table of content 📝
 
